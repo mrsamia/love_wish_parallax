@@ -1,10 +1,13 @@
 * {
   margin: 0;
   padding: 0;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 900;
+  font-size: 70px;
 }
 
 .parallax-div {
-  background-image: url("https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__340.jpg");
+  background-image: url("img01.jpg");
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -18,5 +21,5 @@
 }
 
 .parallax-div-img-2 {
-  background-image: url("https://static01.nyt.com/images/2019/11/05/science/28TB-SUNSET1/merlin_163473282_fe17fc6b-78b6-4cdd-b301-6f63e6ebdd7a-superJumbo.jpg");
+  background-image: url("img02.jpg");
 }
